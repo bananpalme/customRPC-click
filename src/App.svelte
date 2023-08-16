@@ -74,12 +74,6 @@
 	img{
 		text-align: center;
 	}
-
-	button{
-		width: 5rem;
-		height: 3rem;
-
-	}
 	
 	@keyframes pulsate {
     
